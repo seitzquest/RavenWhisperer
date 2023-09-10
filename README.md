@@ -1,6 +1,6 @@
 # Raven Whisperer
 
-Listens to your voice and queries a language model for answers if a question is detected
+Listens to your voice and queries a language model for answers when a question is detected
 - Combines whisper live transcription with RWKV (or any other language model of your choice) 
 
 To install dependencies simply run
